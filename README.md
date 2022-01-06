@@ -1,8 +1,8 @@
 # Algorithms-1
-![Build](https://img.shields.io/wercker/ci/wercker/docs.svg)
+<!-- ![Build](https://img.shields.io/wercker/ci/wercker/docs.svg) -->
 ![Java](https://img.shields.io/badge/Java-8-yellow.svg)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<!-- ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg) -->
+<!-- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) -->
 
 
 This respository is a collection of various useful Algorithms-1 and data structures along with their Java implementations, intended for educational use. This is a work in progress, so some Algorithms-1 may not be included.
